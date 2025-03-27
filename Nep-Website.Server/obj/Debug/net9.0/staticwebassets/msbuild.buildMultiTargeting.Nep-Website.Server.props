@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nep-Website.Server.props" />
+</Project>

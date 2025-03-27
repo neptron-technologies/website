@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:49280",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Nep-Website\\Nep-Website.Server\\..\\nep-website.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

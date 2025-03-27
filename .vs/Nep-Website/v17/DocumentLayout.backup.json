@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nep-Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A539483-E81B-433D-BFAC-B796209D4226}|nep-website.client\\nep-website.client.esproj|d:\\nep-website\\nep-website.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1A539483-E81B-433D-BFAC-B796209D4226}|nep-website.client\\nep-website.client.esproj|solutionrelative:nep-website.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30850B26-22E8-426B-925F-6A1FE3A0224E}|Nep-Website.Server\\Nep-Website.Server.csproj|d:\\nep-website\\nep-website.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30850B26-22E8-426B-925F-6A1FE3A0224E}|Nep-Website.Server\\Nep-Website.Server.csproj|solutionrelative:nep-website.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A539483-E81B-433D-BFAC-B796209D4226}|nep-website.client\\nep-website.client.esproj|d:\\nep-website\\nep-website.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A539483-E81B-433D-BFAC-B796209D4226}|nep-website.client\\nep-website.client.esproj|solutionrelative:nep-website.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30850B26-22E8-426B-925F-6A1FE3A0224E}|Nep-Website.Server\\Nep-Website.Server.csproj|d:\\nep-website\\nep-website.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30850B26-22E8-426B-925F-6A1FE3A0224E}|Nep-Website.Server\\Nep-Website.Server.csproj|solutionrelative:nep-website.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "D:\\Nep-Website\\nep-website.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "nep-website.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "D:\\Nep-Website\\nep-website.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "nep-website.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-27T11:13:19.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Nep-Website\\nep-website.client\\package.json",
+              "RelativeDocumentMoniker": "nep-website.client\\package.json",
+              "ToolTip": "D:\\Nep-Website\\nep-website.client\\package.json",
+              "RelativeToolTip": "nep-website.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T10:58:03.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Nep-Website\\Nep-Website.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Nep-Website.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Nep-Website\\Nep-Website.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Nep-Website.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:57:38.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nep-Website\\Nep-Website.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Nep-Website.Server\\Program.cs",
+              "ToolTip": "D:\\Nep-Website\\Nep-Website.Server\\Program.cs",
+              "RelativeToolTip": "Nep-Website.Server\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:57:29.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
