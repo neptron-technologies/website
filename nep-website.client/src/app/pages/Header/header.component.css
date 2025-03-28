@@ -1,0 +1,92 @@
+/* Navbar Customization */
+.navbar {
+  position: fixed; /* Sticks to the top */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80px; /* Adjusted height */
+  background-color: #0b1c4d !important;
+  z-index: 1000; /* Ensures it stays above other content */
+  padding: 10px 15px; /* Reduced padding */
+  display: flex;
+  align-items: center;
+}
+
+/* Remove white space between navbar and image */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Logo Customization */
+.navbar-brand img {
+  width: 160px; /* Adjust width */
+  height: auto; /* Maintain aspect ratio */
+  max-height: 70px; /* Reduce max height */
+}
+
+/* Move Navigation Menu to the Right */
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 30px; /* Reduce space */
+  display: flex;
+  gap: 20px; /* Reduce spacing between items */
+}
+
+/* Navbar Links */
+.navbar-nav .nav-link {
+  color: white !important;
+  font-size: 1rem; /* Adjust font size */
+  padding: 0.5rem 1rem; /* Reduce padding */
+  margin-right: 5px !important; /* Reduce spacing between menu items */
+  position: relative; /* Required for underline effect */
+}
+
+/* Underline Hover Effect */
+.navbar-nav .nav-link::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  transform-origin: bottom center;
+  transition: transform 0.3s ease-out;
+}
+
+.navbar-nav .nav-link:hover::after {
+  transform: scaleX(1);
+}
+
+/* Search Box */
+.form-control {
+  width: 200px; /* Decrease width */
+  font-size: 0.9rem; /* Adjust font size */
+  padding: 8px; /* Adjust padding */
+  margin-left: 10px; /* Reduce gap */
+}
+
+/* Hero Image */
+.hero-image {
+  width: 100%;
+  height: 100vh; /* Use viewport height */
+  object-fit: cover;
+  margin-top: 100px; /* Ensure it starts below navbar */
+  object-position: top center; /* Ensure top of image is visible */
+}
+
+/* Text Overlay - Left Aligned & No Box Shadow */
+.hero-text {
+  position: absolute;
+  top: 40%;
+  left: 5%; /* Move to the left side */
+  transform: translateY(-50%);
+  font-size: 2rem;
+  font-weight: bold;
+  color: white; /* Remove transparency */
+  background: none; /* Remove box background */
+  padding: 10px 0;
+  text-align: left;
+}
